@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/thermo.dir/src/main.cpp.o CMakeFiles/thermo.dir/src/thermometer.cpp.o CMakeFiles/thermo.dir/src/naive_thermometer.cpp.o -o thermo 

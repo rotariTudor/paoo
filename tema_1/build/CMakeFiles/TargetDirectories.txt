@@ -1,0 +1,3 @@
+/mnt/c/Users/Tudor/Desktop/Uni/Anul 4/sem_1/PAOO/LABORATOR/tema_1/build/CMakeFiles/thermo.dir
+/mnt/c/Users/Tudor/Desktop/Uni/Anul 4/sem_1/PAOO/LABORATOR/tema_1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tudor/Desktop/Uni/Anul 4/sem_1/PAOO/LABORATOR/tema_1/build/CMakeFiles/rebuild_cache.dir
